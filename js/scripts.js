@@ -9,7 +9,7 @@ function getTriangleArea(a, h) {
 		return value;
 		 
 	else 
-		console.log('Niepoprawne dane!');
+		return ('Niepoprawne dane!');
 
 }
 
